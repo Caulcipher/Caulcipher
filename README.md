@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Caulcipher
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on School projects
+- 📫 email me at dylanhikma@gmail.com
